@@ -1,0 +1,30 @@
+#titulo-principal {
+    color: blue;
+}
+
+.destaque{
+    background-color: yellow;
+}
+
+p{
+    font-family: Arial;
+
+}
+
+.importante{
+    color:red
+}
+
+input[type="text"]{
+    border-color: blue;
+
+}
+
+button:hover{
+    background-color: green;
+
+}
+
+li:first-child{
+    font-weight: bold;
+}
