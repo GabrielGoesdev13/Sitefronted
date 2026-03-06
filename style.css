@@ -28,3 +28,31 @@ button:hover{
 li:first-child{
     font-weight: bold;
 }
+
+P::first-letter{
+    font-size: 15px;
+}
+
+.importante{
+    color: red;
+}
+
+input[type = "text"]{
+    border-color: blue;
+}
+
+button:hover{
+    background-color: green;
+}
+
+li:first-child{
+    font-weight: bold;
+}
+
+p::first-letter{
+    font-size: 15px;
+}
+
+div > p{
+    color: rgb(2, 238, 93);
+}
